@@ -1,0 +1,12 @@
+C:\Users\andro\Desktop\курсААААААЧ\ПРОЕКТ\The 3rd Kursach - Resurrection (WinForms)\The 3rd Kursach - Resurrection (WinForms)\bin\Debug\The 3rd Kursach - Resurrection (WinForms).exe.config
+C:\Users\andro\Desktop\курсААААААЧ\ПРОЕКТ\The 3rd Kursach - Resurrection (WinForms)\The 3rd Kursach - Resurrection (WinForms)\bin\Debug\The 3rd Kursach - Resurrection (WinForms).exe
+C:\Users\andro\Desktop\курсААААААЧ\ПРОЕКТ\The 3rd Kursach - Resurrection (WinForms)\The 3rd Kursach - Resurrection (WinForms)\bin\Debug\The 3rd Kursach - Resurrection (WinForms).pdb
+C:\Users\andro\Desktop\курсААААААЧ\ПРОЕКТ\The 3rd Kursach - Resurrection (WinForms)\The 3rd Kursach - Resurrection (WinForms)\obj\Debug\The 3rd Kursach - Resurrection (WinForms).csprojAssemblyReference.cache
+C:\Users\andro\Desktop\курсААААААЧ\ПРОЕКТ\The 3rd Kursach - Resurrection (WinForms)\The 3rd Kursach - Resurrection (WinForms)\obj\Debug\The_3rd_Kursach___Resurrection__WinForms_.Form1.resources
+C:\Users\andro\Desktop\курсААААААЧ\ПРОЕКТ\The 3rd Kursach - Resurrection (WinForms)\The 3rd Kursach - Resurrection (WinForms)\obj\Debug\The_3rd_Kursach___Resurrection__WinForms_.Properties.Resources.resources
+C:\Users\andro\Desktop\курсААААААЧ\ПРОЕКТ\The 3rd Kursach - Resurrection (WinForms)\The 3rd Kursach - Resurrection (WinForms)\obj\Debug\The 3rd Kursach - Resurrection (WinForms).csproj.GenerateResource.cache
+C:\Users\andro\Desktop\курсААААААЧ\ПРОЕКТ\The 3rd Kursach - Resurrection (WinForms)\The 3rd Kursach - Resurrection (WinForms)\obj\Debug\The 3rd Kursach - Resurrection (WinForms).csproj.CoreCompileInputs.cache
+C:\Users\andro\Desktop\курсААААААЧ\ПРОЕКТ\The 3rd Kursach - Resurrection (WinForms)\The 3rd Kursach - Resurrection (WinForms)\obj\Debug\The 3rd Kursach - Resurrection (WinForms).exe
+C:\Users\andro\Desktop\курсААААААЧ\ПРОЕКТ\The 3rd Kursach - Resurrection (WinForms)\The 3rd Kursach - Resurrection (WinForms)\obj\Debug\The 3rd Kursach - Resurrection (WinForms).pdb
+C:\Users\andro\Desktop\курсААААААЧ\ПРОЕКТ\The 3rd Kursach - Resurrection (WinForms)\The 3rd Kursach - Resurrection (WinForms)\obj\Debug\The_3rd_Kursach___Resurrection__WinForms_.VisInformer.resources
+C:\Users\andro\Desktop\курсААААААЧ\ПРОЕКТ\The 3rd Kursach - Resurrection (WinForms)\The 3rd Kursach - Resurrection (WinForms)\obj\Debug\The_3rd_Kursach___Resurrection__WinForms_.Experiment.resources
